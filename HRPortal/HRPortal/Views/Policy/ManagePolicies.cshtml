@@ -1,0 +1,51 @@
+﻿@model List<HRPortal.Models.Category>
+
+@{
+    ViewBag.Title = "ManagePolicies";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Policies</h3>
+        @Html.ActionLink("Add Policy", "AddPolicy", "Policy", null, new { @class = "btn btn-primary" })
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                Choose a category
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                @foreach (var category in Model)
+                {
+                    <li><a href="/Policy/ManagePolicies?category=@category.CategoryName">@category.CategoryName</a></li>
+                }
+            </ul>
+        </div>
+        <table class="table table-striped" style="width: auto;">
+            <thead>
+                <tr>
+                    <th>Policy Name</th>
+                    <th>Category</th>
+                    <th>Policy</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Request.QueryString["category"] != null)
+                {
+                    foreach (var policy in @Model.Where(m => m.CategoryName == Request.QueryString["category"]).First().Policies)
+                    {
+                        <tr>
+                            <td>@policy.PolicyTitle</td>
+                            <td>@Request.QueryString["category"]</td>
+                            <td>@policy.PolicyContent</td>
+                            <td>@Html.ActionLink("Delete", "DeletePolicy", "Policy", new { policyName = policy.PolicyTitle }, null) </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

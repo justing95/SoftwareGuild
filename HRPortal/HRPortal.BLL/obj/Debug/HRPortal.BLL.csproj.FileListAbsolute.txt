@@ -1,0 +1,5 @@
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.BLL\bin\Debug\HRPortal.BLL.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.BLL\bin\Debug\HRPortal.BLL.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.BLL\obj\Debug\HRPortal.BLL.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.BLL\obj\Debug\HRPortal.BLL.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.BLL\obj\Debug\HRPortal.BLL.csprojResolveAssemblyReference.cache

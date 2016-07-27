@@ -1,0 +1,14 @@
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.exe.config
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.exe
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.BLL.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.Data.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\nunit.framework.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.BLL.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.Data.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\FlooringOrders.Models.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\bin\Debug\nunit.framework.xml
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\obj\Debug\FlooringOrders.UI.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\obj\Debug\FlooringOrders.exe
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders\obj\Debug\FlooringOrders.pdb

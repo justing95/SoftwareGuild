@@ -1,0 +1,33 @@
+﻿@model HRPortal.Models.AddPolicyViewModel
+
+@{
+    ViewBag.Title = "AddPolicy";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Add Policy</h3>
+        @Html.ActionLink("Return to List", "ManagePolicies", "Policy")
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary()
+            <div class="form-group">
+                <label>Policy Name</label>
+                @Html.TextBoxFor(v => v.Policy.PolicyTitle, new { @class = "form-control", placeholder = "Policy Name" })
+            </div>
+            <div class="form-group">
+                <label>Policy</label>
+                @Html.TextBoxFor(v => v.Policy.PolicyContent, new { @class = "form-control", placeholder = "Policy Content" })
+            </div>
+            <div class="form-group">
+                <label>Category</label>
+                @Html.DropDownListFor(v => v.Policy.CategoryName, Model.CategoryItems, new { @class = "form-control", placeholder = "Category" })
+            </div>
+            <button type="submit" class="btn btn-sm btn-primary">Save</button>
+        }
+    </div>
+</div>

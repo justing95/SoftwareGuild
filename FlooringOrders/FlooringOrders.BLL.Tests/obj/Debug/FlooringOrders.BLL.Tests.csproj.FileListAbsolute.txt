@@ -1,0 +1,11 @@
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\FlooringOrders.BLL.Tests.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\FlooringOrders.BLL.Tests.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\FlooringOrders.BLL.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\FlooringOrders.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\nunit.framework.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\FlooringOrders.BLL.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\FlooringOrders.Models.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\bin\Debug\nunit.framework.xml
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\obj\Debug\FlooringOrders.BLL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\obj\Debug\FlooringOrders.BLL.Tests.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.BLL.Tests\obj\Debug\FlooringOrders.BLL.Tests.pdb

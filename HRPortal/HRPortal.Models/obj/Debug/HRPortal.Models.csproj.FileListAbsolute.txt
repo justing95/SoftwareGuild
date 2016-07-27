@@ -1,0 +1,5 @@
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.Models\bin\Debug\HRPortal.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.Models\bin\Debug\HRPortal.Models.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\HRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.csprojResolveAssemblyReference.cache

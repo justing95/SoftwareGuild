@@ -1,0 +1,4 @@
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Models\bin\Debug\FlooringOrders.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Models\bin\Debug\FlooringOrders.Models.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Models\obj\Debug\FlooringOrders.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Models\obj\Debug\FlooringOrders.Models.pdb

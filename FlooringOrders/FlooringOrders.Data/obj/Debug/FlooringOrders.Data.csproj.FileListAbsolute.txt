@@ -1,0 +1,7 @@
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\bin\Debug\FlooringOrders.Data.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\bin\Debug\FlooringOrders.Data.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\bin\Debug\FlooringOrders.Models.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\bin\Debug\FlooringOrders.Models.pdb
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\obj\Debug\FlooringOrders.Data.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\obj\Debug\FlooringOrders.Data.dll
+C:\Users\apprentice\Documents\repos\justin-gordon-individual-work\FlooringOrders\FlooringOrders.Data\obj\Debug\FlooringOrders.Data.pdb
